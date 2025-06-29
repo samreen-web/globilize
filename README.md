@@ -1,3 +1,2 @@
-# globilize
-this is my first reposistory
+# globil
 author samreen
